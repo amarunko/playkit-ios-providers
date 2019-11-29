@@ -21,7 +21,7 @@
 import UIKit
 import SwiftyJSON
 import KalturaNetKit
-import PlayKit
+import PlayKitAina
 
 @objc public enum AssetType: Int, CustomStringConvertible {
     case epg

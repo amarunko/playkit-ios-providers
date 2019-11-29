@@ -11,7 +11,7 @@
 import Foundation
 import KalturaNetKit
 import PlayKitUtils
-import PlayKit
+import PlayKitAina
 
 /// class `BaseOTTAnalyticsPlugin` is a base plugin object used for OTT analytics plugin subclasses
 public class BaseOTTAnalyticsPlugin: BasePlugin, OTTAnalyticsPluginProtocol, AppStateObservable {

@@ -11,7 +11,7 @@
 import UIKit
 import SwiftyJSON
 import KalturaNetKit
-import PlayKit
+import PlayKitAina
 
 public class TVPAPIAnalyticsPlugin: BaseOTTAnalyticsPlugin {
     

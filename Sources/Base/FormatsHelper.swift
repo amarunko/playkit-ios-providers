@@ -9,7 +9,7 @@
 // ===================================================================================================
 
 import Foundation
-import PlayKit
+import PlayKitAina
 
 class FormatsHelper {
 

@@ -10,7 +10,7 @@
 
 import Foundation
 import KalturaNetKit
-import PlayKit
+import PlayKitAina
 
 enum OTTAnalyticsEventType: String {
     case hit

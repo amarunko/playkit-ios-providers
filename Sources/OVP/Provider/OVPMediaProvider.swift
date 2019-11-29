@@ -11,7 +11,7 @@
 import UIKit
 import SwiftyXMLParser
 import KalturaNetKit
-import PlayKit
+import PlayKitAina
 
 @objc public class OVPMediaProvider: NSObject, MediaEntryProvider {
 
