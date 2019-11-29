@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
 
   s.source_files = 'Sources/**/*'
   
-  s.dependency 'PlayKitAina/AnalyticsCommon', '~> 3.11'
+  s.dependency 'PlayKitAina/AnalyticsCommon', '~> 3.15.1'
     
   s.dependency 'KalturaNetKit', '~> 1.3'
   s.dependency 'PlayKitUtils'
